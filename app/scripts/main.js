@@ -1,1 +1,3 @@
-console.log('\'Allo \'Allo!');
+$(document).ready(function(){
+  $('td:even').css('font-weight', 'bold');
+});
