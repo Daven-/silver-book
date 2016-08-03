@@ -1,1 +1,1 @@
-"use strict";console.log("'Allo 'Allo!");
+"use strict";$(document).ready(function(){$("td:even").css("font-weight","bold")});
